@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=X2Go Plasmoid
+Comment=X2Go session control
+Icon=x2go-plasmoid
+Type=Service
+X-KDE-PluginInfo-Author=Robert Tari
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Email=robert@tari.in
+X-KDE-PluginInfo-License=GPL3
+X-KDE-PluginInfo-Name=org.x2go.plasmoid
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.x2go.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-NotificationArea=true
+X-Plasma-NotificationAreaCategory=ApplicationStatus
+
+Name[en_GB]=X2Go Plasmoid
+Comment[en_GB]=X2Go session control

@@ -1,0 +1,35 @@
+# Translation of plasmoid in British English
+# Copyright (C) 2023
+# This file is distributed under the same license as the plasmoid package.
+# Automatically generated, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmoid\n"
+"Report-Msgid-Bugs-To: https://www.x2go.org\n"
+"POT-Creation-Date: 2023-06-07 22:32+0200\n"
+"PO-Revision-Date: 2023-06-07 17:59+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/tari/Desktop/x2go-plasmoid/package/metadata.desktop
+msgid "X2Go Plasmoid"
+msgstr "X2Go Plasmoid"
+
+#: /home/tari/Desktop/x2go-plasmoid/package/metadata.desktop /home/tari/Desktop/x2go-plasmoid/package/contents/ui/main.qml
+msgid "X2Go session control"
+msgstr "X2Go session control"
+
+#: /home/tari/Desktop/x2go-plasmoid/package/contents/ui/main.qml
+msgid "You are in an active X2Go session"
+msgstr "You are in an active X2Go session"
+
+#: /home/tari/Desktop/x2go-plasmoid/package/contents/ui/main.qml
+msgid "Suspend this session"
+msgstr "Suspend this session"
